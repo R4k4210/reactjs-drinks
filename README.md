@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Descripción del Proyecto
+
+Buscador de tragos usando la API de https://www.thecocktaildb.com/
+En este proyecto se utiliza useContext para manejar el flujo de la información y
+se utiliza un modal de material-ui para la mostrar las recetas.
+
 ## Available Scripts
 
 In the project directory, you can run:
